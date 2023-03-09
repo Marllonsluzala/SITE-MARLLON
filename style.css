@@ -4,7 +4,7 @@
 }
 
 .cabeçalho {
-background-color: rgb(33, 94, 99);
+background-color: #215e63;
 color: #0ef835;
 display: flex;
 justify-content: space-around;
@@ -28,5 +28,6 @@ width: 10%;
 }
 
 .escola{
-    background-image:linear-gradient(#0ef835,#092007);
+background-image:linear-gradient(#215e63,#08171b);
+    color: white;
 }
